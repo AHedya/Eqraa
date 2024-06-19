@@ -1,0 +1,16 @@
+{
+  "pad_token": {
+    "content": "[PAD]",
+    "lstrip": true,
+    "normalized": false,
+    "rstrip": true,
+    "single_word": false
+  },
+  "unk_token": {
+    "content": "[UNK]",
+    "lstrip": true,
+    "normalized": false,
+    "rstrip": true,
+    "single_word": false
+  }
+}

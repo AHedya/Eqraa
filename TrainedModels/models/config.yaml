@@ -1,0 +1,11 @@
+features:
+  NUM_MELS: 128
+  SAMPLES_TO_CONSIDER: 40000
+  TARGET_SR: 16000
+  hop_length: 512
+  n_fft: 2048
+training:
+  BATCH_SIZE: 128
+  NUM_EPOCHS: 160
+  lr: 0.001
+  weight_decay: 0.0001
