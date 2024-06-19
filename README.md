@@ -35,7 +35,9 @@ To install and run Eqraa locally, follow these steps:
 ## Demo 
 
   You can find demo of the project running at [project demo](https://drive.google.com/file/d/1abUFtnbbhiRrzCDPMjIxM4u5JRm_Tc5O/view?usp=sharing).
+  
   Training results, and additional details at [implemntation docs](https://docs.google.com/document/d/12FbvVgNvbhm59A_mEbM1HwJ_G_V0PDv_tZrm-wCAPXk/edit?usp=sharing), page 10 to the end 
+  
   All scripts and trained models variations are at [scripts](https://drive.google.com/file/d/1NK2WxmFg4H_4FoxT24VAOG8fDvHLjZ6a/view?usp=sharing)
 
 
@@ -44,7 +46,7 @@ To install and run Eqraa locally, follow these steps:
 
 ## Data set
 
-  Second version of our data set is available on Kaggle https://www.kaggle.com/datasets/ahedya/labeled-quran-dataset. Make sure You're viewing second version.
+  Second version of our data set is available on [Kaggle](https://www.kaggle.com/datasets/ahedya/labeled-quran-dataset). Make sure You're viewing second version.
 
 
 
