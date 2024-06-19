@@ -42,7 +42,9 @@ To install and run Eqraa locally, follow these steps:
 
 
 ## Notes
-   To accomplish this project we used our from-scratch deep learning models, packaged the into singleton classes, And also we used some pretrained models such as [tarteel-base](https://huggingface.co/tarteel-ai/whisper-base-ar-quran),[tarteel-tiny](https://huggingface.co/tarteel-ai/whisper-tiny-ar-quran) and [Quran syllables](https://huggingface.co/IbrahimSalah/Wav2vecXXl_quran_syllables)
+   - To accomplish this project we used our from-scratch deep learning models, packaged the into singleton classes, And also we used some pretrained models such as [tarteel-base](https://huggingface.co/tarteel-ai/whisper-base-ar-quran),[tarteel-tiny](https://huggingface.co/tarteel-ai/whisper-tiny-ar-quran) and [Quran syllables](https://huggingface.co/IbrahimSalah/Wav2vecXXl_quran_syllables)
+
+   - Pre-trained models are ready to be utilized on the whole Moshaf, although we only used them on AlFatiha, while our from-scratch models can only be applied on AlFatiha.
 
 ## Data set
 
