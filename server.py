@@ -132,7 +132,7 @@ async def websocket_audiostreaming(websocket: WebSocket):
 
 @app.websocket("/broadcast")
 async def websocket_audiostreaming(websocket: WebSocket):
-    """receives audio stream and streams audio into device speakers
+    """receives audio stream and streams audio into server's speakers
 
     Args:
         no args
